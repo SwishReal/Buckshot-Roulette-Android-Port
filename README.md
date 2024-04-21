@@ -1,7 +1,7 @@
 # Buckshot-Roulette-Android-Port
 This is a port of the game Buckshot Roulette on an Android smartphone.
 
-This is a port of the game Buckshot Roulette on an Android smartphone. Good optimization and graphics close to the original with convenient controls are in the box of this project!
+Good optimization and graphics close to the original with convenient controls are in the box of this project!
 
 -   -   -
 
