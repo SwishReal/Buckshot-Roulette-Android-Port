@@ -15,3 +15,6 @@ Beta testers are NikXden, FAILAN, SwishReal, and other people from my social cir
 Help with the engine - StackOverflow and guides on YouTube
 
 The creator of the original game - Mike Klubnika
+
+
+** PROJECT STATUS : EARLY ALPHA TEST **
