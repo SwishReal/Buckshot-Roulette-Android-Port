@@ -18,3 +18,5 @@ The creator of the original game - Mike Klubnika
 
 
 ** PROJECT STATUS : EARLY ALPHA TEST **
+
+** TROUBLE IN PROJECT : SMALL FPS **
