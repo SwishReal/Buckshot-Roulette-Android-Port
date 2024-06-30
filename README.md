@@ -5,6 +5,10 @@ Good optimization and graphics close to the original with convenient controls ar
 
 -   -   -
 
+here screenshots...
+
+-   -   -
+
 We participated in helping with the project
 
 
@@ -16,6 +20,7 @@ Help with the engine - StackOverflow and guides on YouTube
 
 The creator of the original game - Mike Klubnika
 
+-   -   -
 
 ** PROJECT STATUS : EARLY ALPHA TEST **
 
